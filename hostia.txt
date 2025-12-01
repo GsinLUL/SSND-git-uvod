@@ -1,0 +1,4 @@
+1.Mama
+2.Tato
+3.Sestra
+4.Brat
